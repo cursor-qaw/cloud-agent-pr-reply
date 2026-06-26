@@ -26,7 +26,7 @@ function App() {
   }
 
   function handleTestClick() {
-    console.log("We're not in Kansas anymore");
+    console.log('You are our last hope');
   }
 
   return (

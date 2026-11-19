@@ -1,0 +1,1 @@
+const cursorVersionUsed = "Composer";
